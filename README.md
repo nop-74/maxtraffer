@@ -13,3 +13,7 @@ MaxTraffer - первый облачный софт для инвайтинга 
 # [СКАЧАТЬ APK для планщета и Android](https://github.com/nop-74/maxtraffer/releases/download/MaxTraffer/MaxTraffer_2_6.0.apk)
 
  
+## НАШ rutube КАНАЛ
+![Alt text](https://github.com/nop-74/maxtraffer/blob/main/rutub_1.png)
+# [СМОТРЕТЬ ВИДЕО](https://rutube.ru/channel/78497880/)
+
