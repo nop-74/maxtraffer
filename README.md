@@ -10,6 +10,6 @@ MaxTraffer - первый облачный софт для инвайтинга 
 
 # [взять пять дней тест ](https://vk.cc/cYmhFA)
 # [РЕГИСТРАЦИЯ](https://vk.cc/cYmhFA)
-# [СКАЧАТЬ APK для планщета и Android](https://vk.cc/cYmhFA)
+# [СКАЧАТЬ APK для планщета и Android](https://github.com/nop-74/maxtraffer/releases/download/MaxTraffer/MaxTraffer_2_6.0.apk)
 
  
