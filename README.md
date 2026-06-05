@@ -25,3 +25,7 @@ MaxTraffer - первый облачный софт для инвайтинга 
 ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/GURU_1.png)  ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/TOP1_1.png)
 
 ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/TOP2_1.png)
+
+# [взять пять дней тест ](https://vk.cc/cYmhFA)
+# [РЕГИСТРАЦИЯ](https://vk.cc/cYmhFA)
+# [СКАЧАТЬ APK для планщета и Android](https://github.com/nop-74/maxtraffer/releases/download/MaxTraffer/MaxTraffer_2_6.0.apk)
