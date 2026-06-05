@@ -17,7 +17,7 @@ MaxTraffer - первый облачный софт для инвайтинга 
 ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/rutub_1.png)
 # [СМОТРЕТЬ ВИДЕО](https://rutube.ru/channel/78497880/)
 
-##ТАРИФЫ НА УСЛУГИ
+## ТАРИФЫ НА УСЛУГИ
 ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/start_1.png)  ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/BASIC1.png)
 
 ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/pro_1.png)  ![Alt text](https://github.com/nop-74/maxtraffer/blob/main/MASTER_1.png)
